@@ -1,19 +1,19 @@
 # Olá, eu sou o Gabriel! 🤘
 
-Bem-vindo ao meu perfil do GitHub, onde compartilho meu trabalho como desenvolvedor Java com conhecimentos sólidos em Python e engenharia de dados, com foco em aplicações web. Estou entusiasmado por você estar aqui para explorar meus projetos e colaborar conosco!
+Bem-vindo ao meu perfil do GitHub, onde compartilho meu trabalho como desenvolvedor Java com conhecimentos sólidos em Python. Estou entusiasmado por você estar aqui para explorar meus projetos e colaborar conosco!
 
 ## Sobre Mim
 - ☕ Desenvolvedor Java com foco em aplicações web.
 - 🐍 Proficiente em Python para tarefas de ETL (Extração, Transformação e Carregamento) e análise de dados.
-- ⚙️ Experiência em engenharia de dados, especializado em coleta, armazenamento e processamento de dados.
 - 🔗 Vamos nos conectar? Encontre-me no [LinkedIn](https://www.linkedin.com/in/gabriel-leandrods/).
 
 ## Habilidades
 
 - 💻 Desenvolvimento de aplicações Java Web
+- 🐍 Utilização de Python para ETL e análise de dados em projetos de engenharia de dados.
 - 🛢️ Bancos de dados SQL e NoSQL.
 - 💽 Arquitetura de dados e design de pipelines.
-- 🐍 Utilização de Python para ETL e análise de dados em projetos de engenharia de dados.
+
 
 
 ## Como me Encontrar
