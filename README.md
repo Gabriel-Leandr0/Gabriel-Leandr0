@@ -1,23 +1,22 @@
-# Olá, eu sou o Gabriel! 🤘
+# Olá, eu sou o Gabriel! 🚀
 
-Bem-vindo ao meu perfil do GitHub, onde compartilho meu trabalho como desenvolvedor Java com conhecimentos sólidos em Python. Estou entusiasmado por você estar aqui para explorar meus projetos e colaborar conosco!
+Bem-vindo ao meu perfil do GitHub, onde compartilho meu trabalho como desenvolvedor WEB, especializado em C# .NET, SQL, Docker e Kubernetes.
 
 ## Sobre Mim
-- ☕ Desenvolvedor Java com foco em aplicações web.
-- 🐍 Proficiente em Python para tarefas de ETL (Extração, Transformação e Carregamento) e análise de dados.
-- 🔗 Vamos nos conectar? Encontre-me no [LinkedIn](https://www.linkedin.com/in/gabriel-leandrods/).
+- 👨‍💻 Desenvolvedor WEB com expertise em aplicações C# .NET.
+- 🛠️ Proficiente em SQL para manipulação e gerenciamento eficiente de bancos de dados.
+- 🐳 Experiência sólida em Docker para facilitar o desenvolvimento e implantação de aplicações em contêineres.
+- ☁️ Conhecimento em Kubernetes para orquestração escalável de contêineres.
 
 ## Habilidades
 
-- 💻 Desenvolvimento de aplicações Java Web
-- 🐍 Utilização de Python para ETL e análise de dados em projetos de engenharia de dados.
-- 🛢️ Bancos de dados SQL e NoSQL.
-- 💽 Arquitetura de dados e design de pipelines.
-
-
+- 💻 Desenvolvimento de aplicações WEB robustas e escaláveis utilizando C# .NET.
+- 🛢️ Gerenciamento eficaz de bancos de dados SQL para garantir o desempenho e a segurança dos dados.
+- 🐳 Utilização avançada de Docker para criar ambientes de desenvolvimento consistentes e portáteis.
+- ⚙️ Implantação e gerenciamento automatizado de contêineres com Kubernetes para escalar aplicações de forma eficiente.
 
 ## Como me Encontrar
 
-Se você estiver interessado em desenvolvimento Java para aplicações web, tiver perguntas sobre Python, engenharia de dados ou desejar colaborar em projetos, fique à vontade para entrar em contato comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-leandrods/). Adoro conhecer colegas desenvolvedores e compartilhar conhecimento!
+Se você estiver interessado em desenvolvimento WEB com C# .NET, tiver dúvidas sobre SQL, Docker, Kubernetes ou desejar colaborar em projetos, fique à vontade para entrar em contato comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-leandrods/). Adoro conhecer colegas desenvolvedores e compartilhar conhecimento!
 
-Fique à vontade para explorar meus repositórios e projetos. Se tiver alguma sugestão ou pergunta, não hesite em me enviar uma mensagem. 😄
+Explore meus repositórios e projetos. Se tiver alguma sugestão ou pergunta, não hesite em me enviar uma mensagem. Vamos construir coisas incríveis juntos! 😄
